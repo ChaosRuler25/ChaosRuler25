@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ChaosRuler25
-- 👀 I’m interested in Ethical Hacking.
-- 🌱 I’m currently a self taught student.(A Beginner)
-- 💞️ I’m looking to collaborate on any Ethical Hacking coding or penetration.
+
 
 
 <!---
